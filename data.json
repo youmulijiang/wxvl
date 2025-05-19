@@ -14226,5 +14226,13 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=4&sn=82946ed1a6eb79ec67accaf8a487ab2d": "Windows远程桌面网关UAF漏洞可导致远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503417&idx=1&sn=e3066a86595352998f8e826f3a2435cf": "安全热点周报：Fortinet 修复了 FortiVoice 攻击中利用的关键零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594242&idx=2&sn=a1d093e798d1c33be4ce0d793de7964b": "高危WordPress插件漏洞威胁超1万个网站安全",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506362&idx=1&sn=a448e7af31b543bfe00e841f0a1c708d": "每周网安资讯 （5.13-5.19）| Siemens SIMATIC PCS neo漏洞预警"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506362&idx=1&sn=a448e7af31b543bfe00e841f0a1c708d": "每周网安资讯 （5.13-5.19）| Siemens SIMATIC PCS neo漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzYyMjEzMQ==&mid=2247487617&idx=1&sn=5876a6a3fbb1b810133e786da2badaa5": "CVE-2020-1472NetLogon权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497614&idx=1&sn=e6277cb245dd6b2a5691854377357140": "逻辑漏洞中一些自己总结关于验证码的漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzAwNzA4NA==&mid=2247485216&idx=1&sn=17314e6e6088de7b43fa8fd275de137a": "原创—中国乃至世界进入后门时代，挖漏洞该怎么挖",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486627&idx=1&sn=e2683b56e8df633164681dd09a46657d": "​​新型 CPU 漏洞曝光！英特尔芯片陷内存泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=3&sn=4af04e70e04676869165146646aff900": "Pwn2Own大赛：黑客利用JavaScript零日漏洞攻破Firefox的技术细节"
 }
