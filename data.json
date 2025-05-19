@@ -14234,5 +14234,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486627&idx=1&sn=e2683b56e8df633164681dd09a46657d": "​​新型 CPU 漏洞曝光！英特尔芯片陷内存泄露风险",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=1&sn=904da7408fb841188b7ceee5ba2756f6": "【AI漏洞预警】huggingface transformers拒绝服务漏洞(CVE-2025-2099)",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=3&sn=4af04e70e04676869165146646aff900": "Pwn2Own大赛：黑客利用JavaScript零日漏洞攻破Firefox的技术细节"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=3&sn=4af04e70e04676869165146646aff900": "Pwn2Own大赛：黑客利用JavaScript零日漏洞攻破Firefox的技术细节",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491514&idx=1&sn=2750735b9efbf0d315335bce4609eaf3": "DocsGPT 远程命令执行漏洞 (CVE-2025-0868)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=1&sn=85d1a5323f8b408b84356624a99f4290": "推荐一个专为新手打造的漏洞挖掘实战圈",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=4&sn=2b3bbda702b95680bb8469041a55a91f": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484646&idx=1&sn=beff017a744912f0d5e8202ca0494fa8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则?",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487940&idx=1&sn=ed7c9a4905f62eeeec22d209bba65844": "Firefox紧急修复两大零日漏洞！Pwn2Own柏林大赛黑客斩获$10万奖金",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=2&sn=477c546c495a1d59f2a34d685c7e88cc": "【漏洞预警】Invision Community themeeditor远程代码执行漏洞CVE-2025-47916"
 }
