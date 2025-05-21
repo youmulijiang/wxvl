@@ -14310,5 +14310,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492295&idx=1&sn=f6fe03aa31417ece81388366d75a5ef2": "漏洞预警 美特CRM mcc_login.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501350&idx=1&sn=ebf4178a51e69ff7028825f78d0fb3d0": "漏洞速递 | CVE-2025-0868 RCE漏洞（附EXP）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493883&idx=1&sn=7dedce75c1a1e0e52ab06db60c0770a7": "4G通话（VoLTE）漏洞致仅需拨号即可定位任何O2运营商用户",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523071&idx=1&sn=8d8429be1cebb442aaca091ca13012be": "火狐修复Pwn2Own大会上利用的2个0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523071&idx=1&sn=8d8429be1cebb442aaca091ca13012be": "火狐修复Pwn2Own大会上利用的2个0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491121&idx=4&sn=15052ca758a156db9fc23f0994da5c90": "30个云安全漏洞的发现与利用技巧，非常有用！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485405&idx=1&sn=beb431317f63213a3b1ce3caf311a704": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582436&idx=1&sn=12b06818505f402adb0a43d0f8fed169": "黑客在Pwn2Own利用VMware ESXi和Microsoft SharePoint零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463062&idx=2&sn=b4a9cf80bd7a6eebe34ae2ff379c6f1b": "信息安全漏洞周报（2025年第20期）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261150&idx=1&sn=9f9b5e82296ea4a4ccb98a8c4d178877": "【CVE-2025-40634】缓冲区溢出 EXP 公布"
 }
