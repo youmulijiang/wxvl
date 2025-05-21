@@ -14331,5 +14331,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=1&sn=fbd0408fe1e921d65adf6f736435cfa6": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第20期，总第38期]",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523082&idx=1&sn=1ddbeb4f3e454706eafa9900777eed09": "VMware 紧急修复多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490397&idx=1&sn=d297b27606dab7d510399b202924f348": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-47277）",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506411&idx=1&sn=f203edbcf801302cc15cf12841f0ab3b": "我的第一个漏洞赏金计划：我如何赚到 1,000 美元"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506411&idx=1&sn=f203edbcf801302cc15cf12841f0ab3b": "我的第一个漏洞赏金计划：我如何赚到 1,000 美元",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096252&idx=1&sn=2f0f81d26d721040020ceab8d5bdf46e": "VMware ESXi & vCenter 执行任意命令漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497345&idx=1&sn=ce91a7ca3849f39847a2580b90e00d1d": "一个高性能的目录扫描工具，专门检测和验证 Web 中的路径遍历漏洞,通过异步并发扫描和智能 WAF 绕过技术，快速发现漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544884&idx=1&sn=82fe2afa774e253e020af6d28ecf0d9e": "【渗透实战系列】|54-小程序渗透记录 通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484547&idx=1&sn=6e16e54e1a96a10f763626e990d0c081": "漏洞挖掘—利用查询功能获取敏感信息（2）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529982&idx=3&sn=cd0ae68d9599ac5c66a1868fa35a2305": "发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492979&idx=1&sn=9a26d330e98f20f99a943d09bff5dbe7": "黑客在柏林 Pwn2Own 漏洞竞赛中凭借 28 个零日漏洞赢得 1,078,750 美元",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321451&idx=3&sn=821456f16440650fb03a4c3b61a55746": "vLLM 曝高危远程代码漏洞，AI 服务器面临攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f": "【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269）",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554991&idx=1&sn=349b4d22b12fcd3a515d02f35327005e": "车载网络通信“CAN总线”的安全与漏洞"
 }
