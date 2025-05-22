@@ -14364,5 +14364,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=1&sn=53658193138b944b76bad2de5c9801f5": "Setuptools 漏洞导致数百万 Python 用户易受RCE攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096259&idx=2&sn=d8d2730e6657e88318f2e82adfe92123": "多个 GitLab 漏洞使攻击者能够发起 DoS 攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497351&idx=1&sn=dbd0b485f6a94cd50d1e7225916730ce": "一款专为安全研究人员和白帽子设计的漏洞赏金工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d": "Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d": "Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516677&idx=1&sn=8bd54d9cb3ad82b65bcf77877a9bf7f4": "漏洞赏金工具 -- BBtool（5月21日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解"
 }
