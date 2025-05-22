@@ -14343,5 +14343,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321451&idx=3&sn=821456f16440650fb03a4c3b61a55746": "vLLM 曝高危远程代码漏洞，AI 服务器面临攻击风险",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f": "【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269）",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554991&idx=1&sn=349b4d22b12fcd3a515d02f35327005e": "车载网络通信“CAN总线”的安全与漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136952&idx=2&sn=69e69672adb30bdae6830130589359c4": "攻防技术观察| 试验性攻击工具利用Windows系统信任机制屏蔽Defender；可精准预测漏洞被实际利用概率的评估指标体系发布"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136952&idx=2&sn=69e69672adb30bdae6830130589359c4": "攻防技术观察| 试验性攻击工具利用Windows系统信任机制屏蔽Defender；可精准预测漏洞被实际利用概率的评估指标体系发布",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC"
 }
