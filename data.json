@@ -14388,5 +14388,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491417&idx=1&sn=91d65e10514e6fcaf5d6ac79e6a89331": "【国际视野】美国国家标准与技术研究院推出识别IT漏洞利用的公式",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8": "【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe": "美国NIST、CISA联合提出漏洞利用概率度量标准"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe": "美国NIST、CISA联合提出漏洞利用概率度量标准",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=1&sn=13f091a5db5a8f5cb5088945cf935fee": "BadSuccessor 漏洞究竟有多严重？Akamai 和微软意见不一",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499721&idx=1&sn=05d535e772a6012e657bcb94e57321dd": ".NET WebShell 绕过 EDR 监控，不调用 cmd.exe 也能实现命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492644&idx=1&sn=e8e146f8565e64702729b69dad2a78f4": "疑似俄罗斯APT28组织在全球攻击活动中利用0Day漏洞——每周威胁情报动态第223期 （05.16-05.22）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261177&idx=1&sn=73668e9ea66320d7b0d76167ac1dfd2c": "【CVE-2025–4123】：Grafana SSRF 及帐户接管利用"
 }
