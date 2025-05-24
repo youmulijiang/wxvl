@@ -14386,5 +14386,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064169&idx=1&sn=803b3b6b86b1bf480ceaca8bb9dabf2f": "信息安全漏洞周报【第023期】",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTU1MTIzMQ==&mid=2247497184&idx=2&sn=bf66200c70e5ee156d8588806cf02fc6": "等保测评中漏洞扫描：筑牢网络安全防线的关键利器",
     "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491417&idx=1&sn=91d65e10514e6fcaf5d6ac79e6a89331": "【国际视野】美国国家标准与技术研究院推出识别IT漏洞利用的公式",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8": "【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490126&idx=1&sn=607c8cc65f9c89318775ac76f0b30de8": "【漏洞预警】Grafana未授权跨站点脚本攻击XSS&SSRF漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe": "美国NIST、CISA联合提出漏洞利用概率度量标准"
 }
