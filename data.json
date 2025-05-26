@@ -14448,5 +14448,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520709&idx=1&sn=676ba7b4e5166fdb4039f80f1288888c": "PHP中的session漏洞利用",
     "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507055&idx=1&sn=f87c3e85fc53e0b53da2054598728cda": "Web3 漏洞眼: Cetus AMM 2 亿美元被黑事件",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488187&idx=1&sn=e139a99381ec99c5c0ea6edbe1d75512": "【两万字原创长文】完全零基础入门Fastjson系列漏洞（基础篇）",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483863&idx=1&sn=0be008eb5656674456686070d3870748": "AI 赋能漏洞变种分析：从已知到未知，Hacktron 发现 Ivanti EPMM 新攻击向量的启示"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483863&idx=1&sn=0be008eb5656674456686070d3870748": "AI 赋能漏洞变种分析：从已知到未知，Hacktron 发现 Ivanti EPMM 新攻击向量的启示",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad": "【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=2&sn=85d90003c5777cda7d6cdc539c3b982d": "上周关注度较高的产品安全漏洞(20250519-20250525)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069834&idx=1&sn=335db8c1f2b23d140ba49e50ec855ed0": "【安全圈】ViciousTrap 利用思科漏洞操控全球 5,300 台设备构建蜜罐监控网络",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519543&idx=1&sn=1a444807e71915e56cc6ce6ba82aa495": "工具 | 漏洞挖掘小工具-SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211870&idx=1&sn=e5eb84aa661afeffb2798381b6d15335": "浅析SpringBoot框架常见未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321761&idx=4&sn=8aa3eb79d0743637147049e31344da8e": "黑客组织ViciousTrap利用思科漏洞入侵84个国家，构建全球蜜罐网络",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506384&idx=1&sn=d41497eacbe57bb1d5fa6beafb7f122a": "每周网安资讯 （5.20-5.26）| Poedit 安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491599&idx=1&sn=165d0ffc3c03a14a2d0a30a5801c2a54": "Pichome 任意文件读取漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136993&idx=2&sn=24ab2dba798f4bcf2ce2dab974ee8d55": "地盘战打响，DragonForce争夺勒索软件市场主导权；AI助手DIANNA首次成功识别大语言模型生成的恶意软件 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=1&sn=42ceff19e40ee69f47921352b4acc3b9": "CNVD漏洞周报2025年第19期",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247496855&idx=2&sn=19a9d8e0672c21ea10d987febab0d279": "历史首次！o3找到Linux内核零日漏洞，12000行代码看100遍揪出，无需调用任何工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507761&idx=1&sn=ef3242ad509ed6a12634f21f802dcd5d": "漏洞通告 | Grafana 开放重定向与服务端请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932190&idx=1&sn=c30630174b2223f93458c6ee9e77de2b": "OpenAI大语言模型漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788619&idx=1&sn=7edd031550c18e5bc06975a63cc61a90": "AI首次独立发现Linux内核可利用0Day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492400&idx=1&sn=b6a3819edf4e9dfeb14515aab465825a": "618 领券 | 稍后读软件 Pocket 即将关闭，这个更强的工具能担起重任！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538917&idx=1&sn=73d4461f6b7ff10643dc088854fec577": "关键基础设施遭受攻击：漏洞成为黑客首选武器",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514421&idx=2&sn=cce953e1f93937d286c85ab93f963865": "首次利用OpenAI o3模型发现Linux内核零日漏洞"
 }
