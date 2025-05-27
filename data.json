@@ -14492,5 +14492,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486753&idx=1&sn=3abdaa3b245cc30c92e6322dcc3f1c70": "黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵",
     "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247499635&idx=1&sn=cca778a3a8b5c545de9edc8d2a4f2c92": "【漏洞与预防】Microsoft Windows 文件资源管理器欺骗漏洞预防",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485589&idx=1&sn=308a44fe96ac6e8ca80a8e1f5d0f5b56": "Zer0 Sec团队-某SRC任意文件读取漏洞挖掘案例",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530229&idx=3&sn=70f3209757ed00e0906074d10d488d38": "发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530229&idx=3&sn=70f3209757ed00e0906074d10d488d38": "发现与 IXON VPN 客户端相关的三个新漏洞，可导致本地权限提升 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468805&idx=1&sn=3b1ae29229283c236d11a6e8d149bc7e": "十四年连冠｜绿盟漏洞扫描与管理产品再获佳绩",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247492421&idx=1&sn=899c37a36234e4c8668f3f56303615fe": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755": "若依Vue漏洞检测工具 - ruoyi-Vue-tools",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=2&sn=11426f6aaac01c747218a552ac6e5129": "GitLab Duo 漏洞可导致攻击者通过隐藏的提示劫持AI响应",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7": "Apache Tomcat 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=1&sn=1a8e46e871f1fae51bb1c752be774842": "CISA提醒注意已遭利用的 Commvault 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521136&idx=1&sn=e6e3e3b78b2343b548d40246af0c841f": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b": "Windows Server 2025 \"BadSuccessor\" 漏洞曝光，可导致域控接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=4&sn=7c4223920cb17acbc65fb665c7da7365": "Mesh Wi-Fi存在CVSS 9.1分高危漏洞，设计缺陷可被用于数据帧注入攻击"
 }
