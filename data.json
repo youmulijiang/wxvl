@@ -14518,5 +14518,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499227&idx=1&sn=73bbfba76dd660bbc59316c7d3bfcd52": "EMQX命令执行后渗透",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485063&idx=1&sn=4fd13821611ba0fa4db6c3c5dda51a33": "新手也能学会的安卓漏洞！手把手教你查出 App 数据泄露！",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497264&idx=1&sn=a416851315173135e64299b51984541c": "CVE-2024-45436:Ollama ZIP文件解压导致的命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497264&idx=1&sn=a416851315173135e64299b51984541c": "CVE-2024-45436:Ollama ZIP文件解压导致的命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610894&idx=4&sn=a4799ef6807263051f8dcfca295fb4e9": "一款开源免费的漏洞扫描工具-Sirius",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487440&idx=1&sn=008313c2fd51c8b9e0470334e5ac0513": "通达OA OfficeTask前台RCE、SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610894&idx=1&sn=af94a6c952aa9508a50dd00de20f2126": "涉案151人、4300余万元 警方侦破一起侵犯公民个人信息案；|阿迪达斯数据泄露事件：第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497468&idx=2&sn=508b2f0a56e3aeacd8f66a472486cf32": "网络安全漏洞扫描：别再迷信工具，先搞懂这些事儿！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493937&idx=1&sn=fd643ae0b90716be724efc591b46e96a": "DragonForce操作者利用SimpleHelp漏洞链式攻击某MSP服务商及其客户",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491617&idx=1&sn=6644d7a7e9a8a5e5201ceacfd085c46a": "InvisionCommunity 远程代码执行漏洞 (CVE-2025-47916)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490813&idx=1&sn=3d883c634ebd693977d0d5a25a6ec412": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248034&idx=1&sn=e62faedf047a36698e7e4968415855ad": "“开盒”，坚决打击！| Windows Server 2025 \"BadSuccessor\" 漏洞曝光，可导致域控接管",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251924&idx=1&sn=351ee525acf88eca45f1ceefe54feb57": "国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655280643&idx=1&sn=d29834cc9689633efe690b4732ccb92b": "2025 HVV必修高危漏洞集合2",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463074&idx=1&sn=85acc3cb8d7a6d3136d4804cef124728": "信息安全漏洞周报（2025年第21期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624639&idx=3&sn=8cb76c24e331ca965cf8085ec68d31a0": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243080&idx=2&sn=f3ace9c6fac492cbef8ab21825036bda": "关注 | ComfyUI存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489213&idx=1&sn=d4e4580e77b79aa9d7736bcd79a22ecc": "实战EDUSRC挖掘｜微信小程序渗透漏洞及getshell复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=1&sn=2ad4c6a9c3df1465a9ebfccfff088411": "漏洞预警 | FoxCMS SQL注入漏洞"
 }
