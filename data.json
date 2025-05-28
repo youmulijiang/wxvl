@@ -14510,5 +14510,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488502&idx=1&sn=c417e10a497251134c3d81775de5d501": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137007&idx=2&sn=1aaad1f68d3e1cc0bb3260721d30302c": "量子计算破解RSA加密难度降低20倍，后量子密码学迫在眉睫；国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 | 牛览",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115908&idx=2&sn=367490ce902e04506aa0eeed4a4df3ab": "办公平台存在安全漏洞！某国有企业违反《网络安全法》被处罚",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc": "漏洞挖掘—利用查询功能获取敏感信息（3）"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc": "漏洞挖掘—利用查询功能获取敏感信息（3）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjE5MQ==&mid=2247485290&idx=1&sn=54c83a4634320e1fdb80ed018b00c8c6": "【DDDD二开】修复bug 新增指纹poc 新增功能",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247535924&idx=1&sn=6fb1cc1ee15c4e163ede7fc4914209e6": "独家洞察｜Mallox勒索团伙疑似继续利用产品漏洞攻击投毒国内数百个资产",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=3&sn=e60c83d9ba5b3fa37d698e3f080ff9af": "漏洞预警 | 用友U8Cloud任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=2&sn=ea1367c3c4f9cfecdd1cd04ded2ceccb": "漏洞预警 | 智慧校园(安校易)管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499227&idx=1&sn=73bbfba76dd660bbc59316c7d3bfcd52": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjY5MDc4Ng==&mid=2247485063&idx=1&sn=4fd13821611ba0fa4db6c3c5dda51a33": "新手也能学会的安卓漏洞！手把手教你查出 App 数据泄露！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497264&idx=1&sn=a416851315173135e64299b51984541c": "CVE-2024-45436:Ollama ZIP文件解压导致的命令执行漏洞"
 }
