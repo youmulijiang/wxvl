@@ -14632,5 +14632,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665": "任意文件读取&下载漏洞的全面解析及利用",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187": "vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d": "ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具",
-    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086413&idx=1&sn=d20c43c1c81c5c2963f188f540ef56a4": "微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据"
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086413&idx=1&sn=d20c43c1c81c5c2963f188f540ef56a4": "微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491645&idx=1&sn=157a465373fcfaf72051bc1154c58206": "金华迪加 现场大屏互动系统 ajax_act_set_bgmusic.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512289&idx=1&sn=48c4fb2f47eec32325185a611bd32558": "IBM Power HMC漏洞披露：受限Shell突破与权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=2&sn=c13a6632f6952677d33342a4e5c8776c": "AyySSHush：利用华硕已修复漏洞组建僵尸网络的间谍技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491636&idx=1&sn=9aa9917155b1eedfbe7e73a85b3b0fbf": "用友NC expertschedule SQL注入漏洞"
 }
