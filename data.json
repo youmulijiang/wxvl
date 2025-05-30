@@ -14621,5 +14621,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514445&idx=1&sn=6f6043b769f9bed3eb4ff2904556f776": "美军工巨头押注AI赋能网络攻击，超21亿元收购漏洞利用厂商",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f": "【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f": "【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=3&sn=914afcabd8edcc167e4b033e85e3b45e": "漏洞预警 | 万户ezOFFICE SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9": "漏洞预警 | 朗速ERP任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860603&idx=1&sn=3f138383a35ce7cfbe9c538da4af941e": "在Windows强跑Docker，8GB内存都喂不饱漏洞扫描神器？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506513&idx=1&sn=6e00e60bc051e20d313ebd7d41019761": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c": "Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488525&idx=1&sn=20d1abb7ff5745d3093f6b089f6a4187": "vBulletin replaceAdTemplat接口存在远程代码执行漏洞CVE-2025-48827 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494388&idx=1&sn=1d26ade4f0031585db8697d373cda55d": "ExploitDB 一款轻量级用于抓取、展示和导出 Exploit-DB中的漏洞数据的工具"
 }
