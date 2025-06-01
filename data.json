@@ -14669,5 +14669,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489309&idx=1&sn=864847316fc192abf5f5e40335561587": "【儿童节快乐】CVE-2025-4664：单个标头泄露敏感数据",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=3&sn=9de6823533b7c81787188772ad659886": "记某众测Fastjson<=1.2.68反序列化RCE过程",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610944&idx=1&sn=b65519e4ba185ad6ae0031556576681a": "国家网络安全中心发高危漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488659&idx=2&sn=098f93f509ee7d88c5c6bda227c86154": "任意文件读取&下载漏洞的全面解析及利用"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488659&idx=2&sn=098f93f509ee7d88c5c6bda227c86154": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900650&idx=1&sn=7482c6fc3609162a06181413aad71af9": "Mimo黑客利用Craft CMS漏洞(CVE-2025-32432)！挖矿、流量劫持，更演变为勒索软件威胁！"
 }
