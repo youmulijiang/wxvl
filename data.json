@@ -14779,5 +14779,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491180&idx=1&sn=b210da06b518e42b574e7a6206c75449": "【src】SRC漏洞挖掘信息收集与挖掘技巧",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=1&sn=9ba0403347dc177e4caa30af389f631f": "谷歌修复了今年年初以来第二个被积极利用的Chrome零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=3&sn=295593d68ae1db67020a8b1080cca5cc": "2025 年 6 月安卓安全更新修复 30 多个漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487354&idx=1&sn=44aee310cb9ef148d0a41a5da713e6c6": "CVE-2024-47575 漏洞分析及三种利用方式"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487354&idx=1&sn=44aee310cb9ef148d0a41a5da713e6c6": "CVE-2024-47575 漏洞分析及三种利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676": "【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494371&idx=1&sn=3b7b2922e7fdae49adea80a9e2acc5a7": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485051&idx=1&sn=af7709c22592ba59aa6272659d0f4772": "CVE-2025-48827：vbulletin代码执行POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3MTgxOQ==&mid=2247499910&idx=1&sn=df1de2e9b4b1e20a50c035217bcd298d": "【漏洞预警】llama_index SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610964&idx=3&sn=fca50e82f94f682a5a2e622dd3f26c96": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=3&sn=a29e14d95783cd29e736a3f282efa03a": "谷歌紧急发布安卓安全更新，修复可导致权限提升的多项高危漏洞"
 }
