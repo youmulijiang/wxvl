@@ -14812,5 +14812,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503443&idx=1&sn=763f543a4089f1b08833ccbac7059be5": "【新安全事件】vBulletin 远程代码执行漏洞(CVE-2025-48827)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284": "CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491693&idx=1&sn=4f6b2b1ccf9491a261ce9ce50a700534": "M7s UI download 任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20": "CNNVD | 关于Google Chrome安全漏洞的通报"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20": "CNNVD | 关于Google Chrome安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750"
 }
