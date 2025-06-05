@@ -14845,5 +14845,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497536&idx=1&sn=7318bd01d7d51cb7892c8ac62203bacb": "【漏洞通告】DataEase远程代码执行漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524460&idx=1&sn=7d2b4e4d60276ffcbb0e8a79d51308cf": "DataEase H2数据库远程代码执行漏洞(CVE-2025-49002)",
     "https://mp.weixin.qq.com/s?__biz=MzIyNDkwNjQ5Ng==&mid=2247486115&idx=1&sn=b606ab44ebe50c4968bb70b369ba0f04": "CVE-2025-49113 Roundcube Webmail反序列化漏洞分析",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed": "【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed": "【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491943&idx=1&sn=e84dfaf45db4b4d1cc436ecc54f3e8c9": "WEB漏洞扫描器Invicti-Professional-V25.5.1（自动化爬虫漏洞扫描）更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519440&idx=1&sn=2c02d7338cb44ac37b0fdcb7466ad272": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488974&idx=1&sn=5b2444dbfe6ced072d11a897895e3fee": "超骚逻辑漏洞-滥用自动邮件回复程序访问内部工作场所",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af": "谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=2&sn=943465d2d861698941b2f73fc679ea7f": "Smartded Meteobridg的template.cgi接口存在任意命令注入CVE-2025-4008 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485776&idx=1&sn=deb484fff8f887811d04f804566d5b5b": "Kindeditor编辑器漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=1&sn=778857248586131ae73927608b847830": "Liferay icon.jsp接口存在跨站漏洞CVE-2025-4388 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070016&idx=3&sn=2f8103c74269e54bf6753a609066de26": "【安全圈】在VMWare NSX中发现多个存储的XSS漏洞-立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486915&idx=1&sn=1f9e76e950e746d6c1ab9c1e3312cea4": "【信息收集】ARL灯塔搭建教程-联动vscan自动化漏洞扫描",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793732&idx=1&sn=59278d0b2074a9c856a0700dfac2b83d": "0day漏洞量产？AI Agent“生产线”曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485899&idx=1&sn=376aea6abca97546fc3a44c807047baa": "唯德科创 IPEasy 知易通 WSFM 任意文件上传漏洞"
 }
