@@ -14814,5 +14814,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491693&idx=1&sn=4f6b2b1ccf9491a261ce9ce50a700534": "M7s UI download 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20": "CNNVD | 关于Google Chrome安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=2&sn=34a6edf72fcd14c1c0603c5e647f1f18": "漏洞预警 | 傲发办公通信专家系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485894&idx=1&sn=c532159a5a85d9939354104532ecd411": "唯德科创 IPEasy 知易通 DownloadFile 任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281545&idx=1&sn=c51dacb03c32e53c22ea3c7ee12da50e": "如何快速挖掘高质量安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3": "HVV护网行动 | 分享最近攻防演练HVV漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116177&idx=1&sn=b61a279f71e939047cb92a3467d505fe": "维多利亚的秘密由于安全漏洞推迟发布收益报告",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a": "【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞"
 }
