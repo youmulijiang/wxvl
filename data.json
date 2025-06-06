@@ -14878,5 +14878,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624932&idx=1&sn=6f75bcca06219e491efdcf1420264980": "小米：车联网安全漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261279&idx=2&sn=34a64379d3eb92a135403a71c42b4635": "CVE-2025-30397 PoC",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497365&idx=1&sn=4ec899e26e1e52c198d80c9cacdd1184": "记某众测Fastjson<=1.2.68反序列化RCE过程",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489196&idx=2&sn=c6590cb7a9b28def433bd6e8ff26eeb5": "谷歌称黑客利用修改版Salesforce应用窃取数据并勒索公司"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489196&idx=2&sn=c6590cb7a9b28def433bd6e8ff26eeb5": "谷歌称黑客利用修改版Salesforce应用窃取数据并勒索公司",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503369&idx=1&sn=61a37e11b0764057323dfc5fb5baf447": "【成功复现】Meteobridge命令执行漏洞(CVE-2025-4008)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503459&idx=1&sn=087027a577be1dc41e697c2c19c5b6d6": "【已复现】Roundcube Webmail 后台代码执行漏洞(CVE-2025-49113)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796528&idx=1&sn=c28536a9bfd233fe849fe92949b8dd1b": "SBOM风险预警 | pino系列投毒包开展敏感数据窃取及远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524715&idx=4&sn=579700137876da6310dde825aee73f7a": "思科ISE关键漏洞影响AWS、微软Azure及Oracle云基础设施部署",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515360&idx=1&sn=531525683c50094e1ba7694d49afc477": "警惕！你的 API 正在 \"裸奔\"？Swagger 安全漏洞攻防实战全解析！"
 }
