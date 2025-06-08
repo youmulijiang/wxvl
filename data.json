@@ -14917,5 +14917,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=2&sn=dbe57e94f20bc9b3f98b334b6267cffc": "CVE-2025-48827｜vBulletin远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519442&idx=1&sn=c589daacc1be8e90294d6c18e509d2fb": "赚取50000美元的5个顶级 XSS PoC",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322725&idx=2&sn=a6d9bad6730f5365d0a54cf5c19b22bf": "6.11北京 | 报名FORCE原动力大会-大模型安全分会场 文末有福利",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491495&idx=1&sn=28a749aa101664e76dd905dfc0081fe3": "网络安全人士必知的 AWVS 漏洞扫描工具"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491495&idx=1&sn=28a749aa101664e76dd905dfc0081fe3": "网络安全人士必知的 AWVS 漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860720&idx=1&sn=700c43def3115706dbdf14b9634c3176": "16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488992&idx=3&sn=240dba489c13a8cf1abd16a7f09aa981": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503392&idx=1&sn=5292f042bdea8bb3d2fd6e87cb7a2ca2": "【成功复现】vBulletin远程代码执行漏洞(CVE-2025-48827&CVE-2025-48828)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491410&idx=1&sn=e4ef9713ca498412d72fd9536077c06b": "【漏洞】PHP代码审计篇 - 信呼OA 前台分析SQL注入"
 }
