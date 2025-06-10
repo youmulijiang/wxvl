@@ -15013,5 +15013,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487384&idx=1&sn=5ffca9c9cb920ef8ad92e9b37a2cb559": "CVE-2025-49113 漏洞分析与利用方式",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac": "Apache Kafka 多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484429&idx=1&sn=cb4fd855f8a0f2ad59111e3ef81bcdfb": "【漏洞预警】Apache Kafka Connect任意文件读取漏洞风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42": "2024年度Linux内核漏洞类型及趋势分析"
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42": "2024年度Linux内核漏洞类型及趋势分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524758&idx=4&sn=0a68213306cd66c9fb6a4723562c1652": "谷歌账户恢复漏洞致攻击者可获取任意用户手机号",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524465&idx=1&sn=900b4d98a5bc47ffd6eaa0ceca281a07": "【漏洞通告】Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486700&idx=1&sn=c4141ed8747a6ddf3958888b71c5899e": "【漏洞预警】Apache Kafka Connect 任意文件读取和服务端请求伪造漏洞(CVE-2025-27817)"
 }
