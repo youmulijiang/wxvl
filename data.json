@@ -15016,5 +15016,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512431&idx=1&sn=4629ebc541371b4e846c5f90d68b8b42": "2024年度Linux内核漏洞类型及趋势分析",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524758&idx=4&sn=0a68213306cd66c9fb6a4723562c1652": "谷歌账户恢复漏洞致攻击者可获取任意用户手机号",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524465&idx=1&sn=900b4d98a5bc47ffd6eaa0ceca281a07": "【漏洞通告】Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486700&idx=1&sn=c4141ed8747a6ddf3958888b71c5899e": "【漏洞预警】Apache Kafka Connect 任意文件读取和服务端请求伪造漏洞(CVE-2025-27817)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486700&idx=1&sn=c4141ed8747a6ddf3958888b71c5899e": "【漏洞预警】Apache Kafka Connect 任意文件读取和服务端请求伪造漏洞(CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)"
 }
