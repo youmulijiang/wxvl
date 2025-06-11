@@ -15033,5 +15033,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494858&idx=1&sn=d1f7cfb96d00c4d43fe42465bd71409f": "工具推荐 | 高效便捷的图形化Nuclei GUI POC管理工具",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623694&idx=2&sn=e663f63c20fc80cba9fad9941e6903f5": "涉及66个重要漏洞！微软发布2025年6月补丁日安全通告",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595564&idx=2&sn=9250733f879b47dac40512814fc3dafd": "Microsoft Outlook 曝高危漏洞，仅需低权限就能实施攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4": "渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4": "渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484900&idx=1&sn=2e1f598f96f292c5ad096f8b86321851": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第23期，总第41期]",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070121&idx=3&sn=da1822910fc81c3cd77f0bc83ba3dcd1": "【安全圈】Outlook 高危漏洞曝光：无需用户操作即可远程执行代码，微软紧急应对 CVE-2025-47176",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488578&idx=1&sn=4142428c58764503e46c884b4b84ac1c": "漏洞预警：用友NC loadDoc.ajax接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490412&idx=1&sn=cd8ec73671558d2a81a33033e8f35ac3": "【风险通告】微软6月安全更新补丁和多个高危漏洞风险提示",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516788&idx=1&sn=a8322e64eaf367a40e9b2389e32535fc": "使用异或∕或运算绕过符号过滤 -- RCE-XOR(6月11日更新)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492338&idx=1&sn=ed081203ba8ce86934247704d9c98cb6": "一个web指纹识别工具，支持多线程、HTTP代理、批量识别、保存结果、截图展示、可自行添加指纹|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490224&idx=1&sn=15d9b3b8964b8455c3fba8dca693f4f8": "【高危漏洞预警】Autodesk Installer权限提升漏洞(CVE-2025-5335)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485432&idx=1&sn=63e6601ff3509793cf189faf3a909cce": "契约锁电子签章系统RCE简单分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527122&idx=2&sn=c1ff1f433717b608b87e76da427bada1": "2025年5月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503484&idx=1&sn=e9cb94f0ad7c963ed06257db90f92834": "【已复现】Apache Kafka 多个高危漏洞安全风险通告第二次更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjE1NzQ2MA==&mid=2247490708&idx=1&sn=e4f6a9830fda07759f1e6507007bd44a": "CVE-2023-22527复现实录：沉浸式攻防体验尽在CyberStrikeLab靶场",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548475&idx=1&sn=cf44f1ebf802541d34482ba2178ee40f": "建立一个成熟漏洞管理程序的七个步骤",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497556&idx=1&sn=7208e6194a202ec313700a4769f2d485": "2025年6月微软补丁日多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486164&idx=1&sn=624542896280a113bc18fcfc7be7f903": "工具集：P1soda 【一款渗透场景下的内网漏洞自动化扫描工具】--2025∕6∕08更新",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247525784&idx=1&sn=baee547bc43d6c40c0f3db64c3ca2620": "2025-06微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492822&idx=1&sn=588b95206e8af7e0f4799bf62d24e037": "【已复现】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492651&idx=1&sn=2ecf9cc05b8618697416aaa97d1c10c6": "Windows WebDAV 零日远程代码执行漏洞遭野外利用"
 }
