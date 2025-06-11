@@ -15019,5 +15019,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486700&idx=1&sn=c4141ed8747a6ddf3958888b71c5899e": "【漏洞预警】Apache Kafka Connect 任意文件读取和服务端请求伪造漏洞(CVE-2025-27817)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485082&idx=1&sn=d864aa242dace84f433eb2fae22e0c69": "2025年5月企业必修安全漏洞清单",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282214&idx=1&sn=0625914fed042db42421a0970a5166c9": "2024年度全球软件漏洞与威胁情报报告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683": "利用 CVE-2025-0072 绕过 MTE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2": "信息安全漏洞周报（2025年第23期）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=2&sn=2e039d2ebc04cf71f327eb71ea092dba": "CVE 2024-43570 和 CVE-2024-43535 的报告和 POC"
 }
