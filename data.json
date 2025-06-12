@@ -15065,5 +15065,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=3&sn=c093f32039ae5e0e02166b94042cc5a2": "SAP 2025年6月安全补丁日修复关键NetWeaver漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=1&sn=425510992775377d64d1b80cae9afe43": "随着Roundcube RCE漏洞被快速利用，超过80,000台服务器受到影响",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484805&idx=1&sn=041adf9e2748f03fb2222d934f9fe44f": "【漏洞复现】九思oa漏洞之SQL注入"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484805&idx=1&sn=041adf9e2748f03fb2222d934f9fe44f": "【漏洞复现】九思oa漏洞之SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6": "一个$1,337的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491780&idx=1&sn=697bf76c965a98ac990b82343f7b9a58": "三汇 SMG网关管理软件 9-13pcap.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487000&idx=1&sn=5be4c11c561976988ba5b9f0fff70ccb": "客户端漏洞挖掘方法论在车机系统中的延伸：任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493368&idx=2&sn=701d5c7504e52d022769b7e6343466c1": "漏洞预警 | 百易云资产管理运营系统SQL注入漏洞"
 }
