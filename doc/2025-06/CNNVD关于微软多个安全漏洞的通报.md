@@ -1,14 +1,5 @@
 #  CNNVD关于微软多个安全漏洞的通报  
-CNNVD  CNNVD安全动态   2025-06-12 11:54  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JjlMnGl5z2XiaAQGZdFulYs0vsE3icB8RUiawPqDSb5lvm8G0drb7iaw7sQ/640?wx_fmt=gif&from=appmsg "")  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1Js3VkKswpUtkoDWibZ1YQl1lIdcctfqePCcSPEdc38SnhJGdqGJUFx9w/640?wx_fmt=gif&from=appmsg "")  
-  
-**点击蓝字 关注我们**  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1Js3VkKswpUtkoDWibZ1YQl1lIdcctfqePCcSPEdc38SnhJGdqGJUFx9w/640?wx_fmt=gif&from=appmsg "")  
-  
+ 网络安全和信息化   2025-06-13 09:24  
   
 **漏洞情况**  
   
@@ -31,11 +22,11 @@ https://portal.msrc.microsoft.com/zh-cn/security-guidance
   
 此次更新共包括66个新增漏洞的补丁程序，其中高危漏洞42个，中危漏洞24个。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03P2o4QCTuhnJ4hznOb04fuzEZy4jtxuLPBOCTeBvTAKPU7eIRVVKxWdQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PuyicNfNkudRXJ4L5p5LKQtT9n2UTRJ3mn7jVlicrEMCEb4r6r2hZVoSw/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 此次更新共包括1个影响微软产品的其他厂商漏洞的补丁程序，其中中危漏洞1个。  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PLwJjEI2Pu2FUJpGDYgibibgDbQZIZmcj9Cfs75TUJBIOL8iaCHk4KthWQ/640?wx_fmt=png&from=appmsg "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/g1thw9GoocfW5Z2lVVKADnSOaLPzP03PIlzMzAs7Ixc0kI9aJBcZkR4g4HWmaWxF5x4BzAnKVFrw7MkV7OtySw/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1 "")  
   
 ## 三修复建议  
   
@@ -46,6 +37,19 @@ https://msrc.microsoft.com/update-guide/en-us
   
 CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如有需要，可与CNNVD联系。联系方式: cnnvd@itsec.gov.cn  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JMd8aMOqNkic25xydKvYcCVEsHXvm506icfXiaFep4AfohjraUj3F2jMfg/640?wx_fmt=gif&from=appmsg "")  
+来源：  
+CNNVD  
   
+-  
+END  
+-  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/co91jb4rYkM8O2Vk1NMvSibBxaP5NSgRL1CpLoy06mLBVffNPZvoS2J6QNQnu0ybyprZ4UicZ4X7icgo5M3YWndwg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
+  
+  
+**欢迎关注我们~**  
+  
+  
+  
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/co91jb4rYkOSU1xg4xqGTRzKia2u7n9vpBNvN4tu4xdZsDQLJ6ysIANeNPwWOCANicztN09SZt9JicD9icgiaf2ZV1Q/640?wx_fmt=other&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp "")  
   
