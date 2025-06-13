@@ -15107,5 +15107,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503493&idx=1&sn=0810b8ac4e0360b1135b0ff03117cf88": "【已复现】契约锁电子签章系统远程代码执行漏洞(QVD-2025-23408)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487122&idx=1&sn=bd894c86e93f53e3fde36b3016e22e07": "重生之网安小FW，某教务一体化系统任意文件写入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487122&idx=1&sn=bd894c86e93f53e3fde36b3016e22e07": "重生之网安小FW，某教务一体化系统任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484816&idx=1&sn=3a4a2007cc0f23f7da750ff52b2ec51f": "【漏洞复现】九思oa之奇怪的sql注入",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795421&idx=3&sn=56fc4b8bea6248a3aa25bf799945dc6f": "GitLab 多个漏洞可导致攻击者完全接管账户",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=5&sn=ffc9d9d2742c9eb3dc02b07aa94ffac6": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252014&idx=1&sn=902715f1ed8dd1c00b55490526da55ad": "SinoTrack GPS设备存在严重安全漏洞，可被远程控制车辆",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282707&idx=1&sn=170fd31c2ce98adbb314614194200315": "任意文件上传漏洞及常见框架Getshell分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484577&idx=1&sn=6d8367ef3304610b2fd669d6e843a514": "契约锁最新漏洞补丁分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=3&sn=a252c3fa99bb3c13eba861594d290b86": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133508&idx=1&sn=a1a24531dc07e9cd843152fd14412d8e": "电力安全预警！3.5万台漏洞太阳能设备在公网暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=3&sn=ca6593532ba34812bdf9218f754c6a62": "漏洞预警 | 美特CRM XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=1&sn=7869f971392716e029fab6b644477314": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入和XML实体注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793": "漏洞预警 | 宏景eHR SQL注入漏洞"
 }
