@@ -15118,5 +15118,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133508&idx=1&sn=a1a24531dc07e9cd843152fd14412d8e": "电力安全预警！3.5万台漏洞太阳能设备在公网暴露",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=3&sn=ca6593532ba34812bdf9218f754c6a62": "漏洞预警 | 美特CRM XXE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=1&sn=7869f971392716e029fab6b644477314": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入和XML实体注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793": "漏洞预警 | 宏景eHR SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494008&idx=1&sn=2c6fff5d5afa1e3e4bd27b375a12d3f8": "Paragon Graphite间谍软件利用零日漏洞入侵至少两名记者的iPhone设备",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=1&sn=1230a9c3ec711c744e5355e4a173cd26": "Windows SMB客户端零日漏洞遭利用：攻击者采用反射型Kerberos中继攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08": "漏洞赏金工具 v1.0",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484640&idx=1&sn=96d9b43f0787deee3e003ab7c1a6a485": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0": "记一次实战日穿整个系统getshell-共九个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491568&idx=1&sn=35c5311b89a99e2d66e3d557819a5047": "清源SCA社区版每日漏洞情报、新增CVE及投毒情报推送",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=2&sn=134520fea73b12fe9966958e6dcf6359": "UEFI安全启动遭突破，高危漏洞CVE-2025-3052威胁数百万PC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984": "微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！"
 }
