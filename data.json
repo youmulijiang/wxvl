@@ -15522,5 +15522,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655284631&idx=1&sn=0f2b418860e8c2dc075739e21e9ca0cb": "DeepSeek R1技术复现和大模型的治理与安全",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555215&idx=1&sn=6a2811d84935bd770fb0fab5ac10eb48": "渗透进阶，玩转网络漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=1&sn=d3362c4570a2fa20dd6265ff8fe16d5a": "CNVD漏洞周报2025年第23期",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=2&sn=fbbb1aea6d677f06fb7c17d1744a6eb3": "上周关注度较高的产品安全漏洞(20250616-20250622)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=2&sn=fbbb1aea6d677f06fb7c17d1744a6eb3": "上周关注度较高的产品安全漏洞(20250616-20250622)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487469&idx=1&sn=969aa08661d0f26aeb3b4f8d5321b200": "代码审计系列-基础篇-SSTI-Thymeleaf模版注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485985&idx=1&sn=77e197ee7c913ad96cdc2f038191fd99": "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)"
 }
