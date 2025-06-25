@@ -15593,5 +15593,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521312&idx=1&sn=f8ca2494b32db358ea69d4f0570ef6ca": "一次从0到1的逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507815&idx=1&sn=d7d2e2bc59c6884536c20a26dfcbe559": "漏洞通告 | Gogs远程命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486111&idx=1&sn=b7d8865b37ec95f6ad4484cd959fc3ea": "Docker API 漏洞成黑客跳板，配合Tor 匿名网络正偷走你的加密货币",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486005&idx=1&sn=264eaaced170be759dbfc03828c82d65": "【威胁情报】：Notepad++ 本地提权漏洞 | POC目前已公开"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486005&idx=1&sn=264eaaced170be759dbfc03828c82d65": "【威胁情报】：Notepad++ 本地提权漏洞 | POC目前已公开",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323714&idx=1&sn=84082a15d99ba5d586f57149ae21b103": "小米互联应用曝高危漏洞，设备面临被完全控制风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596252&idx=3&sn=3870fcc4fac639f2b1fa7dc71dcbdf97": "NVIDIA Megatron LM 重大漏洞曝光，攻击者可注入恶意代码，用户需立即升级",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533747&idx=2&sn=22b55155a4f85bf20cdba850b24115eb": "荐读丨首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523373&idx=1&sn=046fdf8814e8311d4a31bd092804a2c2": "思杰修复 NetScaler ADC 和 Gateway 中的严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531318&idx=1&sn=5495b33965ce946dd8209ec865cc0978": "剖析 CVE-2024-12695：利用 V8 中的 Object.assign()",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyNTg2MA==&mid=2247483982&idx=1&sn=a506515361c892f7d439c4fe16467aa6": "【淮橘AI代码审计工具v2.0】规则+AI双引擎，让漏洞无处遁形",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550556&idx=1&sn=931c3d818653e765d82fba8af75a5de1": "手把手教你CNVD漏洞挖掘 + 资产收集",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137321&idx=2&sn=3b273292ef01a662bff4e7e856dd6634": "美国遭遇黑客活动分子大规模DDoS攻击，与伊朗轰炸事件相关；小米互联互通应用严重漏洞允许黑客未授权访问用户设备| 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492665&idx=1&sn=9fbe571d7111030b9c4ceba172cdaa2a": "漏洞复现 || GeoServer XXE漏洞 (CVE-2025-30220)"
 }
