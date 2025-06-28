@@ -15679,5 +15679,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=2&sn=d589b77eb9be15ec2ad03480d601ade3": "Open VSX Registry中的严重漏洞可用于发动供应链攻击，影响数百万开发人员",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070405&idx=1&sn=afb3be158a42d504cf141b47db4215dc": "【安全圈】兄弟等742款打印机被曝存在安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207187&idx=1&sn=f804f0e6e0e4ab61c441089cc007d237": "TSRC盛夏众测开启！4倍奖励+单个漏洞最高10+万赏金，挑战心跳夏天",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497783&idx=1&sn=f49fc7ca0cb8d8027c5bcdb60b1a2ac4": "$10,000的RCE！​​",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788736&idx=1&sn=d928c3059c6a5c78864232be6184cb05": "Open VSX 漏洞重创扩展生态，数百万开发者面临供应链劫持",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485168&idx=1&sn=ccdbf7b18e4e2300a6fa0d4f9aafd306": "亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析"
 }
