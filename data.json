@@ -15674,5 +15674,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492693&idx=1&sn=f912973994e379d3c80bed9b2187214b": "中山大学｜FORGE：驱动大语言模型自动化构建大规模智能合约漏洞数据集",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486555&idx=1&sn=28d1773e6d7afa6a083204bcfa8f7416": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488952&idx=1&sn=ec5e934481be8b9760d4cf6f099da8d7": "远程 Windows 凭据转储与 Shadow Snapshots（卷影副本）漏洞利用与检测"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488952&idx=1&sn=ec5e934481be8b9760d4cf6f099da8d7": "远程 Windows 凭据转储与 Shadow Snapshots（卷影副本）漏洞利用与检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489317&idx=1&sn=434916a93c8677e2a4430873276124ea": "【漏洞通告】WebSphere Application Server远程代码执行漏洞（CVE-2025-36038）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=2&sn=d589b77eb9be15ec2ad03480d601ade3": "Open VSX Registry中的严重漏洞可用于发动供应链攻击，影响数百万开发人员",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070405&idx=1&sn=afb3be158a42d504cf141b47db4215dc": "【安全圈】兄弟等742款打印机被曝存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207187&idx=1&sn=f804f0e6e0e4ab61c441089cc007d237": "TSRC盛夏众测开启！4倍奖励+单个漏洞最高10+万赏金，挑战心跳夏天",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开"
 }
