@@ -15726,5 +15726,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492309&idx=1&sn=971b6609659bdf8e5a1c6cd2c264177b": "SRC 视角下：渗透测试中的逻辑漏洞思路博弈",
     "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503538&idx=1&sn=5439ec7c9b1446ac237be77feab8fcd0": "【已复现】WinRAR 目录穿越漏洞(CVE-2025-6218)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499979&idx=1&sn=e62c7b512a2e3f57f702c815e19235da": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489170&idx=1&sn=3748f66988afa0fa303cbba4baa2bc5a": "漏洞通告：Sudo chroot 权限提升漏洞（Elevation of Privilege）"
 }
