@@ -15747,5 +15747,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDY2NTY5Mw==&mid=2247485685&idx=1&sn=3291d434ce662ab723d4ae8346bdd9fb": "sudo chroot权限提升漏洞(CVE-2025-32463)",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=2&sn=d6e9b21552f7237cbd8e87489840aae7": "【漏洞通告】Wing FTP Server 远程代码执行漏洞(CVE-2025-47812)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485804&idx=1&sn=aac724da59eb2431e4883e1384ba7310": "重生之hw 0day出自我的cnvd",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488217&idx=1&sn=c37e1bd4e8179e029ebf65dbab89e0b8": "HW（2025-7-2）漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=4&sn=756d8698b6aaf9d39b62171e4a466b15": "【漏洞通告】Google Chrome V8 类型混淆漏洞 (CVE-2025-6554)"
 }
