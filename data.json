@@ -15752,5 +15752,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488217&idx=1&sn=c37e1bd4e8179e029ebf65dbab89e0b8": "HW（2025-7-2）漏洞信息收集汇总",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=4&sn=756d8698b6aaf9d39b62171e4a466b15": "【漏洞通告】Google Chrome V8 类型混淆漏洞 (CVE-2025-6554)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=4&sn=756d8698b6aaf9d39b62171e4a466b15": "【漏洞通告】Google Chrome V8 类型混淆漏洞 (CVE-2025-6554)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484934&idx=1&sn=d44f4e774becd54bfe1a4ab0577e5e3f": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第26期，总第44期]",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486706&idx=1&sn=b26a94a4d38e3bd58c87867369340cae": "国内白帽子能赚多少钱？有多少白帽子全职挖洞能养活自己？零基础兼职挖漏洞收藏这一篇就够了",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "红帆OA MobileOA.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践"
 }
