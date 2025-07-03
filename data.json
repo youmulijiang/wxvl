@@ -15759,5 +15759,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践"
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486896&idx=1&sn=43defdb17bf801bce12e5cc72250945f": "10 米内就能窃听你的耳机！知名音频芯片曝漏洞，索尼、Bose 等大牌耳机受影响",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492919&idx=1&sn=efd3fdb2c449e02f690a3f69145b8532": "AI赋能的JS扫描与漏洞挖掘神器|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）"
 }
