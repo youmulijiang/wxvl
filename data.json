@@ -15788,5 +15788,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=1&sn=82defa4f95ee18fec7fd809f7f565f7a": "思科 Unified CM 中存在满分漏洞，可用于获得root权限",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531579&idx=1&sn=8aeb22f983426b00e76b8eb31fada17a": "我如何通过 NGINX Off-By-Slash 配置错误获得远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850595&idx=1&sn=372e11108972c7b8fce6574e03d9b7fd": "青藤RASP入选CCIA首批 “网安三新”，攻防演练中抓0day神器再获官方认证"
 }
