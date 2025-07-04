@@ -15783,5 +15783,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596501&idx=3&sn=8d167e29f2f70304d76cb865431e2fad": "13岁少年Dylan发现 Teams 漏洞，微软为其修改赏金计划",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604)",
-    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248176&idx=1&sn=0ecdc3615a9a83848b91db8b1861589a": "德国全面封杀DeepSeek，中欧数据冲突升级 | Nessus严重漏洞允许覆盖任意本地系统文件"
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248176&idx=1&sn=0ecdc3615a9a83848b91db8b1861589a": "德国全面封杀DeepSeek，中欧数据冲突升级 | Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492291&idx=1&sn=016611bd54e6385d9c7ac784ba2e1355": "【复现】Google Chrome浏览器在野利用漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=1&sn=82defa4f95ee18fec7fd809f7f565f7a": "思科 Unified CM 中存在满分漏洞，可用于获得root权限"
 }
