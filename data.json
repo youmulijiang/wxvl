@@ -15796,5 +15796,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712380&idx=1&sn=7700a12a66238c5693b4b3853877b1fa": "绿盟网络入侵防护系统users.json敏感信息泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712380&idx=1&sn=7700a12a66238c5693b4b3853877b1fa": "绿盟网络入侵防护系统users.json敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550744&idx=1&sn=2af56c38b8479339ec6a8b2406b7c962": "某前后端分离BI低代码通用漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712387&idx=1&sn=8f5b481baa78655f4d1322f0fd5664d7": "泛微SQL注入漏洞最全收集与整理",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=1&sn=a5a6d0f5b93f52732649237949b05bd9": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486277&idx=2&sn=888640822418c3ba152b62a62e185814": "742款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士、理光等品牌",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492021&idx=1&sn=a7e4f43c8a2f6556f98aefe8b21fd3bb": "锐捷EWEB路由器 check.php 任意文件读取漏洞"
 }
