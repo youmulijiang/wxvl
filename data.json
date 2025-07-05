@@ -15795,5 +15795,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727846792&idx=1&sn=622536f639aa4976d47ddfc18e65de3e": "LazyValue下的Parcel漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712380&idx=1&sn=7700a12a66238c5693b4b3853877b1fa": "绿盟网络入侵防护系统users.json敏感信息泄露漏洞"
 }
