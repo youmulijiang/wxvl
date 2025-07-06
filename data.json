@@ -15817,5 +15817,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247517899&idx=1&sn=c0642ae4e349fb6d21361b4ffb239b55": "OSCE³认证指南：高阶渗透与漏洞挖掘专家的职业通行证",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521558&idx=1&sn=8ace6c1b9ba3c75bd1d77c68810fd128": "护网 | xxl-job漏洞综合利用工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486412&idx=1&sn=6572273038c7614e5a0b8fa78d55f08b": "工具集：xxl-job-attack【xxl-job漏洞综合利用工具】"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486412&idx=1&sn=6572273038c7614e5a0b8fa78d55f08b": "工具集：xxl-job-attack【xxl-job漏洞综合利用工具】",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486452&idx=1&sn=4a801e396583f602f9a3802e920392a6": "RCE 漏洞(上)：远程代码和命令执行的致命威胁",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞"
 }
