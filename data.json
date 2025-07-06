@@ -15811,5 +15811,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492050&idx=1&sn=25241e12d8fd7b7a7d959aebea062c21": "JieLink+智能终端操作平台 DeleteIpPool SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492040&idx=1&sn=a2365a44429fd8ac844dbaefe647210a": "安科瑞环保用电监管云平台 UploadNewsImg 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500923&idx=1&sn=7eb27e3f909442571fa32be3a1dab150": "【2025护网漏洞POC速存】吃苕皮喝挪瓦，HW轻松拿捏",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389175&idx=1&sn=b8a393aea1447997a2db250a2aefcf59": "不容小觑的威胁：CVE-2025-32463 Linux提权漏洞，轻松利用却要紧急修复",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术"
 }
