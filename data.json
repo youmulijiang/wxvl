@@ -15831,5 +15831,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492060&idx=1&sn=0aa4a27dfb422c5b871569d898293228": "百易云资管系统 imaRead.make.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611281&idx=2&sn=0b13a7fa48b99eb7891098356636b07b": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795636&idx=1&sn=000d2e7e424e164f95c2e9ad3f81c1e4": "“CitrixBleed 2”漏洞 PoC 被公开"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795636&idx=1&sn=000d2e7e424e164f95c2e9ad3f81c1e4": "“CitrixBleed 2”漏洞 PoC 被公开",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485878&idx=1&sn=a4d4e1f8a75fc5cd7a0ad2c856557a55": "WordPress Forminator插件漏洞暴露60万网站面临完全接管风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324515&idx=1&sn=e502828a52cb7663487c30f07c064387": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护"
 }
