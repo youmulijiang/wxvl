@@ -15820,5 +15820,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486412&idx=1&sn=6572273038c7614e5a0b8fa78d55f08b": "工具集：xxl-job-attack【xxl-job漏洞综合利用工具】",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486452&idx=1&sn=4a801e396583f602f9a3802e920392a6": "RCE 漏洞(上)：远程代码和命令执行的致命威胁",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546963&idx=2&sn=f6b0b39f61c938cbe033753539c56b22": "紧急！本周【护网】必看3大高危漏洞：Sudo提权漏洞，你中招了吗？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495154&idx=1&sn=0b310649dad15bb7a3798cb0a879ce80": "效率提升90% | 这款资产收集工具让漏洞挖掘更轻松",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=1&sn=5eb58ebd3099c52207add98ed4461dce": "[漏洞利用开发] 0A- 与内存守卫共舞：打破 Canaries∕Cookies、DEP∕NX 和 ASLR",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统"
 }
