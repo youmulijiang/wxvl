@@ -15841,5 +15841,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494698&idx=1&sn=47fe75c62630836696f6a32f42bef890": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486373&idx=1&sn=cb9472d2b19d13e571b914bc08c811b2": "高危Sudo漏洞（CVE-2025-32463，CVSS 9.3）：可提权至root并绕过主机限制，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500933&idx=1&sn=c35687f22a88f65f599bf8b86cd0a51f": "深信服运维安全管理系统RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491714&idx=1&sn=2703eddc7e90fc058235bae0286ecc9b": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月07日",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=1&sn=283a447765d9d0ef01abc0bf3fd76fab": "漏洞预警 | IBM WebSphere远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519635&idx=2&sn=d1cb62c4e47b738de4b25b0c546c8072": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487380&idx=1&sn=97a0b83bda621fc068565f70a79b4ed8": "漏洞管理：企业安全的生命线",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞"
 }
