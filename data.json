@@ -15849,5 +15849,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519635&idx=2&sn=d1cb62c4e47b738de4b25b0c546c8072": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487380&idx=1&sn=97a0b83bda621fc068565f70a79b4ed8": "漏洞管理：企业安全的生命线",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484416&idx=1&sn=d4ca2b0c863b7ac03f1c479a4455648d": "【漏洞复现】锐捷 RG-EW120路由器存在密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=2&sn=0f0fc3ed9e30015967af0b71ee9eb511": "【已复现】Redis hyperloglog存在远程代码执行漏洞（CVE-2025-32023）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)"
 }
