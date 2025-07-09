@@ -15881,5 +15881,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "漏洞速递｜Redis CVE-2025-32023 RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491716&idx=1&sn=56c0e2eca58ac6a391038825ae1a1e81": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月08日",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636509&idx=3&sn=8804730cbc02555af8a8f3980e753719": "Linux启动漏洞可绕过现代Linux系统的安全启动保护",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)"
 }
