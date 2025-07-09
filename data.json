@@ -15885,5 +15885,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636509&idx=3&sn=8804730cbc02555af8a8f3980e753719": "Linux启动漏洞可绕过现代Linux系统的安全启动保护",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490463&idx=1&sn=1b48b2ce233b26f5a8ec414b28fce49b": "【已复现】泛微E-cology9存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险"
 }
