@@ -15909,5 +15909,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTI5NTgyMw==&mid=2247511266&idx=1&sn=b3ca1d6fb81cf3af35f5b93cc05e560e": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484091&idx=1&sn=b77edc5018db3aeebe5d057fe6020255": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494208&idx=1&sn=101fa901a50f4681cd39776d41edc29d": "【已复现】泛微 E-cology9 未授权SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494208&idx=1&sn=101fa901a50f4681cd39776d41edc29d": "【已复现】泛微 E-cology9 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488444&idx=1&sn=5b0a8866a42e54f258089ecfd7d729f3": "项目推荐 | WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489367&idx=1&sn=084efb7db8b14482e6e9abdf2072363b": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500394&idx=1&sn=fa2fc8a9b7314e92c8443b15116c277e": "G.O.S.S.I.P 阅读推荐 2025-07-10 完蛋，AI已经可以找到内核的0day漏洞啦？",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8"
 }
