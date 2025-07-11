@@ -15935,5 +15935,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389196&idx=1&sn=ccc62b0aa6ac8ca2ad1cfbe3cf5b568c": "密码过期卡登录？看我用Expect实现无人值守批量修改",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=1&sn=c3170ccca7509e132f790f5050e51312": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486950&idx=1&sn=40e7bc5b3bf452e149e25cf3ac0347b5": "奔驰、大众、斯柯达中招！蓝牙漏洞可一键操控数百万车载系统​",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告"
 }
