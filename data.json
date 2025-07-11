@@ -15928,5 +15928,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494722&idx=1&sn=07be35bca8fdbda650e5d8e58efe5d9d": "网络摄像头漏洞扫描工具！更新",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=2&sn=d49ffc0a79a9d40fdd6d3805e5cfee49": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512504&idx=1&sn=0443e083b652bc8d4300fa3968d26870": "微软2025年7月补丁日重点漏洞安全预警",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486943&idx=1&sn=4b41f58011e619a09860b8b0c11e089b": "微软7月更新：9.8分蠕虫级漏洞来袭！",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389196&idx=1&sn=ccc62b0aa6ac8ca2ad1cfbe3cf5b568c": "密码过期卡登录？看我用Expect实现无人值守批量修改",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)"
 }
