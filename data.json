@@ -15952,5 +15952,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168678&idx=1&sn=ca4103b2ea097dfda3fc23c85d5c9f5e": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493023&idx=1&sn=33bd188ed20d88bbe2bf0b5dc2b834dd": "某211高校从一个文档到十八万条sfz泄露和命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597083&idx=3&sn=5ed9d81521495a3efbc2a3afe6aedaf8": "PerfektBlue漏洞危及梅赛德斯、大众和斯柯达等多款汽车信息娱乐系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547154&idx=1&sn=ed18dc2a48d5baf054db84d47279fb1b": "【新！】CNNVD通报微软多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
