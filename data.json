@@ -15951,5 +15951,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=MzIyMDEzMTA2MQ==&mid=2651168678&idx=1&sn=ca4103b2ea097dfda3fc23c85d5c9f5e": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490620&idx=1&sn=24772cd1ce3d8e6c26f1f7468208eb76": "2025-7-11日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞"
 }
