@@ -16039,5 +16039,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493293&idx=1&sn=3ab43e73480497e2f567c4f022e8754c": "【SRC】分享某单位众测中的一次高危——逻辑漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
     "https://mp.weixin.qq.com/s?__biz=MzIwMzU0ODczOA==&mid=2247486946&idx=3&sn=1c613f08674533cd087ddd5f7e44e002": "技嘉主板存在RCE漏洞，POC∕EXP请私发我，谢谢",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE"
 }
