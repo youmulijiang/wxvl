@@ -16097,5 +16097,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070714&idx=2&sn=49209de3fb35fbb8e54342a5c92305c5": "【安全圈】美政府用的“Signal 替代品”TeleMessage SGNL 爆出严重漏洞，堆内存泄露已被黑客利用",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514705&idx=2&sn=ed3298db2e4591a6131808dc09a0ecb4": "CNCERT：关于Google Chrome V8存在类型混淆漏洞的安全公告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487706&idx=1&sn=9349f46f0975d7d1ea8b8a818f6e839c": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247483998&idx=1&sn=1fc9a29ab6682685a8fa8f63c3c5fe97": "手把手教你学会代码审计之命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "NVIDIA 容器工具包允许攻击者执行特权代码漏洞"
 }

@@ -1,5 +1,5 @@
 #  【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈  
- Sec探索者   2025-07-18 02:48  
+ 夏小芸 sec   2025-07-17 13:39  
   
 “海内存知己，天涯若比邻”  
   
@@ -71,7 +71,6 @@
   
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/MwxaTtRUcezg7oLRsEA2L4yJUpMDznXGRGoOX2zwibWxF3tFibGBTm6TbonGdgHsGI1W8xo5ecZtOV90dPgEAz9A/640?wx_fmt=png "")  
-  
   
   
   
