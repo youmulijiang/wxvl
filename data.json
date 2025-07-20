@@ -16129,5 +16129,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486568&idx=1&sn=38979e7c71e92a748fe6c50d174e5ed3": "代码审计-Java项目审计-SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518061&idx=1&sn=e5c993ddd41593392c3fadfe8f8fae8a": "OSED = Windows 漏洞利用 + 逆向工程",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484517&idx=1&sn=e03f98bbb89978b550a97c773fa5a27a": "盘点闭眼就扫的RCE漏洞利用工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247485894&idx=1&sn=537a76c2aafc5a26acbaa4f8e9d500bf": "【翻译】严重 NVIDIA AI 漏洞：NVIDIA 容器工具包中的三行容器逃逸 (CVE-2025-23266)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521903&idx=1&sn=1fd7e0366f5859e4c0707a8c6325bcaa": "一键触发漏洞：Oracle云代码编辑器RCE漏洞允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484131&idx=1&sn=0606b9a86fd8c899d2034812d3b44c1b": "SQL注入(0day)||\"延时\"bypass",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650630794&idx=1&sn=f4129ab9edd27f2f2db8d6ec901dfe84": "微信安全漏洞引关注｜安恒终端安全以原生防护筑牢微信 RCE 防线",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞"
 }
