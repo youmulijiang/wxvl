@@ -16165,5 +16165,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "挖掘特斯拉Model 3上价值1w美元的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495401&idx=1&sn=47e2b01157d168775fb74106c8f7523c": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497483&idx=1&sn=09869705c50afddbeffd230575a11f95": "一款面向安全运维场景的集成化利器，融合了资产管理、资产测绘、漏洞检测、配置核查、弱口令检测、批量运维、漏洞跟踪以及日志审计等功能",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498097&idx=1&sn=a47b8ae79f57d37e30f0bf6662d04122": "如何寻找网站漏洞进行突破和攻击？",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=1&sn=522969c64e7e97b9653ead4faf6c2488": "【安全圈】微软服务器软件被曝严重安全漏洞，黑客借此在全球发起攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491779&idx=1&sn=12ff9751f119959893e7de188ad67dcd": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月21日",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTE2NzQ3NQ==&mid=2247487287&idx=1&sn=342b33e6f39c88a34c3500ee4986c9c9": "【漏洞速报】联想管家RCE？速速关机下班",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxNTMzNw==&mid=2247484165&idx=1&sn=195f7dd15984936b3199ae0ff078c5b2": "某供应商系统存在越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990970&idx=1&sn=70703fd989d5db86ff515653bf9aaf50": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252247&idx=1&sn=bf74fd5e8745a26a605f4c8df984203f": "火绒安全：微信 Windows客户端3.9及以下版本存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503632&idx=1&sn=4ab1a5158296cf2066a8b0a1d42f7fb3": "【在野利用】Microsoft SharePoint 远程代码执行漏洞(CVE-2025-53770)安全风险通告"
 }
