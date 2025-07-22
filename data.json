@@ -16176,5 +16176,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理",
     "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990970&idx=1&sn=70703fd989d5db86ff515653bf9aaf50": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252247&idx=1&sn=bf74fd5e8745a26a605f4c8df984203f": "火绒安全：微信 Windows客户端3.9及以下版本存在远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503632&idx=1&sn=4ab1a5158296cf2066a8b0a1d42f7fb3": "【在野利用】Microsoft SharePoint 远程代码执行漏洞(CVE-2025-53770)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503632&idx=1&sn=4ab1a5158296cf2066a8b0a1d42f7fb3": "【在野利用】Microsoft SharePoint 远程代码执行漏洞(CVE-2025-53770)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611495&idx=2&sn=3d0e35264169c731d967995d18dd84e9": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=2&sn=cc080e4dacc81a264d47a38d4d78fd29": "漏洞预警 | Oracle WebLogicServer 未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486523&idx=1&sn=c262ed70b896a8afaec32e93cd9a7c3f": "【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484516&idx=1&sn=3872d7dfca4a596395b59d3c9c0bee98": "25HVV丨联想电脑管家执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523615&idx=2&sn=cac2857656da7d1c204446add8dfee9a": "CrushFTP 新0day被用于劫持服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515391&idx=1&sn=c7106be4cceef2d65d657bd4ee313993": "Chrome 在野 0day CVE-2025-6554 浅析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494434&idx=1&sn=f85a9125e3a2b4c7eb1bf4c737ee71d2": "契约锁pdfverifier RCE攻防绕过史"
 }
